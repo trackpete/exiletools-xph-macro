@@ -1,3 +1,8 @@
+# Note: GGG eventually added some basic XPH functionality into the game.
+
+At the time of writing they still didn't add support to copy this text to the clipboard, so they don't provide tracking and metrics like this macro, but I haven't performed any additional development on the macro and OCR and can't guarantee it will work. It's kinda a bummer because the spreadsheet tracking was pretty cool.
+
+
 # ExileTools In-Game XP/Hour Macro
 
 ## Check your XP Efficiency in a zone, log it over time, and find the optimum zone to level in without leaving the game!
